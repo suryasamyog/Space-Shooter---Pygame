@@ -1,1 +1,1 @@
-# Space-Shooter---Pygame
+# SpaceShooter-Pygame
