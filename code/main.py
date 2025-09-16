@@ -274,7 +274,7 @@ async def main():
         if not game_over:
             collision()
             all_sprites.update(dt)
-        # fill the screen with red color
+            
         screen.fill("#19091C")
 
             
